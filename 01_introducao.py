@@ -1,9 +1,10 @@
-
-# Isso é um comentário ♥♣
+﻿# Isso é um comentário ☺ ♥
 
 '''
-Isso é um comentário de várias linhas 
+Isso é um comentario
+de várias linhas
 '''
 
-print('ola sao paulo')
-print("ola Belem do Para")
+print('Ola Sao Paulo')
+print("Ola Belem do Para")
+print("Ola 'Fortaleza' Ceara")

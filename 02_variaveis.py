@@ -1,16 +1,16 @@
+""" Trabalhando com tipos e Variaveis """
 
-""" Trabalhando com tipos e variaveis """
-nome = "Horacio" # string
-sobrenome = 'Almendra'
+nome = "Caio" # string
+sobrenome = 'Comitre Rossi'
 outronome = nome
-idade = 54 # valor inteiro
-altura = 1.91
-bermuda  = False # boolean
+idade = 38 # valor inteiro
+altura = 1.81
+bermuda = False # boolean
 calca = True
 
 # exibir o conteudo da variavel
 print(nome)
-print(nome + "  " + sobrenome + " tem " + str(idade) + " anos. ")
+print(nome + " " + sobrenome + " tem " + str(idade) + " anos.") 
 
 print(idade + 2)
 
@@ -20,6 +20,5 @@ outra linha
 mais uma
 '''
 print(textoVariasLinhas)
-
 
 
